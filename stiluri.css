@@ -7,3 +7,34 @@
     display: flex;
     flex-direction: column;
 }
+
+.header {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    height: 50px;
+    margin: 10px;
+    margin-right: 50px;
+}
+
+.links{
+    margin-left: auto;
+}
+
+a {
+    color: #38003c;
+    text-decoration: none;
+}
+
+.winner {
+    display: flex;  
+    align-items: center;
+    gap: 75px;
+    margin-top: 35px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+#Ruben {
+    border: 10px white;
+}
